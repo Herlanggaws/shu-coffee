@@ -1,13 +1,9 @@
 *.iml
 .gradle
 /local.properties
-
-# Ignore entire .idea folder
 .idea/
-
 .DS_Store
 /build
 /captures
 .externalNativeBuild
 .cxx
-local.properties
